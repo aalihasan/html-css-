@@ -1,14 +1,29 @@
 *{
   margin: 0px;
   padding: 0px;
+  background-color: aquamarine;
+  
 }
-p{
-  background-color: blueviolet;
-  font-family: 'Times New Roman', Times, serif;
+body{
+  margin-top: 20px;
 }
 div{
-  border: 5px solid slategray;
+  
+  margin: 10px;
+  display: inline;
+ 
+  
+
+
+  
+}
+img{
+  width: 400px;
+  height:350px;
+   border: 5px solid aqua;
+  margin: 10px 0px 0px 50px;
   border-radius: 10px;
-  padding-bottom: 5px;
+  box-shadow: 3px 3px;
+ 
 
 }
