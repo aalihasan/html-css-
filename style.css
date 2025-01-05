@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+p{
+  background-color: blueviolet;
+  font-family: 'Times New Roman', Times, serif;
+}
+div{
+  border: 5px solid slategray;
+  border-radius: 10px;
+  padding-bottom: 5px;
+
+}
